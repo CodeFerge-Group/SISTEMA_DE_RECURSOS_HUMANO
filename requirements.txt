@@ -1,0 +1,12 @@
+# GUI e Gráficos (Requisitos 4.2 do Enunciado)
+customtkinter==5.2.2
+matplotlib==3.8.2
+
+# Inteligência Artificial e Ciência de Dados (Requisito 4.4)
+scikit-learn==1.4.0
+pandas==2.2.0
+numpy==1.26.3
+
+# Base de Dados e Persistência (Requisito 4.3)
+mysql-connector-python==8.3.0
+# psycopg2-binary==2.9.9 (Descomenta se preferires usar PostgreSQL)
